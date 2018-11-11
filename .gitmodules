@@ -4,3 +4,12 @@
 [submodule "skynet"]
 	path = skynet
 	url = https://github.com/zhandouxiaojiji/skynet.git
+[submodule "proj/test"]
+	path = proj/test
+	url = https://github.com/zhandouxiaojiji/test.git
+[submodule "proj/share"]
+	path = proj/share
+	url = https://github.com/zhandouxiaojiji/share.git
+[submodule "proj/backup"]
+	path = proj/backup
+	url = https://github.com/zhandouxiaojiji/backup.git
