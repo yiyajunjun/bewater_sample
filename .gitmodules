@@ -1,0 +1,6 @@
+[submodule "bewater"]
+	path = bewater
+	url = https://github.com/zhandouxiaojiji/bewater.git
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/zhandouxiaojiji/skynet.git
