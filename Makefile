@@ -4,6 +4,7 @@ all:sub skynet bewater
 
 # 更新所有子模块
 sub:
+	git submodule update --init
 	git submodule foreach git pull
 
 # 编译skynet
